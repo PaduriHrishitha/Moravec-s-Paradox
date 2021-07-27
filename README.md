@@ -1,1 +1,0 @@
-# Moravec-s-Paradox
